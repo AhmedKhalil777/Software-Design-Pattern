@@ -28,7 +28,7 @@ but different figures can be produced using different plastic molds.
 want (duck and car) and the output is the plastic figure that we requested.
 - The toy construction case is shown in the following figure, which is provided by
 www.sourcemaking.com [j.mp/factorympat].
-- ![](/pics/1.PNG)
+- ![](pics/1.PNG)
 ---
 ## A software example
 - The Django framework uses the Factory Method pattern for creating the fields
