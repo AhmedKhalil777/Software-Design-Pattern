@@ -81,4 +81,12 @@ means that two distinct objects are created as follows:
       print(id(a) == id(b))
       print(a, b)
     ```
-    
+ - and the execution of it :
+  ![](pics/2.PNG)
+ -Note that the addresses that you see if you execute the file are not the same as I see
+because they depend on the current memory layout and allocation.
+ -  But the result must be the same: the two addresses should be different. 
+ - There's one exception that happens if you write and execute the code in the Python Read-Eval-Print Loop
+(REPL) (interactive prompt), but that's a REPL-specific optimization which is not
+happening normally.
+---
