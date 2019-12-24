@@ -1,0 +1,11 @@
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.exe
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.deps.json
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.runtimeconfig.json
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.runtimeconfig.dev.json
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.dll
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\bin\Debug\netcoreapp3.0\SandwitchFactory.pdb
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\obj\Debug\netcoreapp3.0\SandwitchFactory.csprojAssemblyReference.cache
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\obj\Debug\netcoreapp3.0\SandwitchFactory.AssemblyInfoInputs.cache
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\obj\Debug\netcoreapp3.0\SandwitchFactory.AssemblyInfo.cs
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\obj\Debug\netcoreapp3.0\SandwitchFactory.dll
+E:\Projects\Software-Design-Pattern\1.The Factory Pattern\SandwitchFactory\obj\Debug\netcoreapp3.0\SandwitchFactory.pdb
