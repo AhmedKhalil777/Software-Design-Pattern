@@ -7,7 +7,10 @@
  
  > اعتمدت على البمجة الشيئية ال oop
 
- 
+
 - A design pattern isn't a finished design that can be transformed directly into code.
 
+> مش هو تطبيق نهائى الناس بتستخدمه لا دا هو شكل بستخدمه عشان أحل مشكلة معينة 
+
 - It is a description or template for how to solve a problem that can be used in many different situations.
+
