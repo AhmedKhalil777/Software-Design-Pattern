@@ -1,4 +1,4 @@
-# In the Name of ALLAH
+![image](https://github.com/AhmedKhalil777/Software-Design-Pattern/assets/38745087/23e71c17-5c22-4e35-a757-d409981d2a06)# In the Name of ALLAH
 # Software-Design-Pattern
 ---
 - In software engineering, a __design pattern__ is a general repeatable solution to a commonly occurring problem in software design.
@@ -42,7 +42,7 @@
 |:---:|:----|:-----------|:-----|
 |6 | Structural |The Proxy Pattern| |
 |7 | Structural |The Decorator Pattern| |
-|8 | Structural |The Adapter Pattern| |
+|8 | Structural |[The Adapter Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/8.%20The%20Adapter%20Pattern%20__%20Structural/README.md)|The Adapter pattern is a structural design pattern that allows objects with incompatible interfaces to work together by creating a middleman called an adapter. The adapter acts as a translator or a bridge between the two incompatible interfaces, enabling them to interact seamlessly.|
 |9 | Structural |The Facade Pattern| |
 |10 | Structural |The Flyweight Pattern| |
 |11 | Structural |The Composite Pattern| |
