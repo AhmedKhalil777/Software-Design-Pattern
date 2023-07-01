@@ -45,7 +45,7 @@
 |9 | Structural |The Facade Pattern| |
 |10 | Structural |The Flyweight Pattern| |
 |11 | Structural |The Composite Pattern| |
-|12 | Structural |The Bridge Pattern| |
+|12 | Structural |[The Bridge Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/12.%20The%20Bridge%20Pattern%20__%20Structural/README.md)|Decouple an abstraction from its implementation, so the 2 can vary independently.|
 
 
 
