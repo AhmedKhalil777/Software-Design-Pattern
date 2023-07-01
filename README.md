@@ -1,4 +1,3 @@
-![image](https://github.com/AhmedKhalil777/Software-Design-Pattern/assets/38745087/23e71c17-5c22-4e35-a757-d409981d2a06)# In the Name of ALLAH
 # Software-Design-Pattern
 ---
 - In software engineering, a __design pattern__ is a general repeatable solution to a commonly occurring problem in software design.
