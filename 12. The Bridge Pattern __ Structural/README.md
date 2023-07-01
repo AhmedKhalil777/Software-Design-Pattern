@@ -1,12 +1,27 @@
 # In the Name of ALLAH
-# Software-Design-Pattern
+# Bridge Pattern
 ---
-- In software engineering, a __design pattern__ is a general repeatable solution to a commonly occurring problem in software design.
+> Decouple an abstraction from its implementation, so the 2 can vary independently.
+
+- Abstraction :- Abstraction :- Implementation
+- IRepository :- IDomainRepository :- DomainRepository
 
 
+- We don't need to couple the compos with each sandwitch
+![Alt text](image.png)
+![Alt text](image-1.png)
 
-- A design pattern isn't a finished design that can be transformed directly into code.
 
+![Alt text](image-2.png)
 
-- It is a description or template for how to solve a problem that can be used in many different situations.
+## Common Usages
 
+- User Interfaces 
+  - Shape
+  - Drawing API
+
+- Persistence
+  - Object to persist 
+  - persistence type
+
+- .Net Provider model
