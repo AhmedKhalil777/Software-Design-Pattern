@@ -32,7 +32,7 @@
 |1 | Creational |The Factory Pattern| which allows a class to defer instantiation to subclasses. |
 |2 | Creational |The Singleton Pattern|which ensures that a class only has one instance, and provides a global point of access to it. |
 |3 | Creational |The Prototype Pattern| which specifies the kind of object to create using a prototypical instance, and creates new objects by cloning this prototype. |
-|4 | Creational |The Builder Pattern|which separates the construction of a complex object from its representation so that the same construction process can create different representation |
+|4 | Creational |[The Builder Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/4.%20The%20Builder%20Pattern%20__Creational/README.md)|which separates the construction of a complex object from its representation so that the same construction process can create different representation |
 |5 | Creational |The Abstract Factory Pattern| which provides an interface for creating related or dependent objects without specifying the objects' concrete classes. |
 
 
