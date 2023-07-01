@@ -1,12 +1,18 @@
 # In the Name of ALLAH
-# Software-Design-Pattern
----
-- In software engineering, a __design pattern__ is a general repeatable solution to a commonly occurring problem in software design.
+# Builder Pattern
+---------
+
+> Problem Statement:
+- How to handle many parameter in constructor and deffer this to a builder that can build those parameters into your object.
+- In .Net we are using the Host to host the app, but the host is really big object have a great capabilities and can not be handled ony by paramaterization so the Builder must come to solve this problem.
+- Builder Handling ( To Many Params, Ordering of params , Different Constructors)
+- Builder Variations 
 
 
+> Separate the construction of a complex object from its represntation so that the same construction process can create different repreentations.
 
-- A design pattern isn't a finished design that can be transformed directly into code.
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 
-- It is a description or template for how to solve a problem that can be used in many different situations.
-
+![Alt text](image-2.png)
