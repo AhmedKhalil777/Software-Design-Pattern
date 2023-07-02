@@ -70,7 +70,7 @@
 |20 | Behavioral |The Memento Pattern| Provides the ability to restore an object to its previous state (rollback) |
 |21 | Behavioral |The State Pattern| A clean way for an object to partially change its type at runtime |
 |23 | Behavioral |The Mediator Pattern|Provides a unified interface to a set of interfaces in a subsystem |
-|24 | Behavioral |The Chain of Responsibility)Pattern |  Command objects are handled or passed on to other objects by logic-containing processing objects|
+|24 | Behavioral |[The Chain of Responsibility Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/tree/master/23.%20The%20Chain%20of%20Responsibility%20Pattern%20__%20Behavioral#readme) |  Command objects are handled or passed on to other objects by logic-containing processing objects|
 |25 | Behavioral |The interpreter Pattern|Implement a specialized computer language to rapidly solve a specific set of problems |
 
 
