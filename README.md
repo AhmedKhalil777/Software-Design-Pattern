@@ -1,4 +1,3 @@
-# In the Name of ALLAH
 # Software-Design-Pattern
 ---
 - In software engineering, a __design pattern__ is a general repeatable solution to a commonly occurring problem in software design.
@@ -32,7 +31,7 @@
 |1 | Creational |The Factory Pattern| which allows a class to defer instantiation to subclasses. |
 |2 | Creational |The Singleton Pattern|which ensures that a class only has one instance, and provides a global point of access to it. |
 |3 | Creational |The Prototype Pattern| which specifies the kind of object to create using a prototypical instance, and creates new objects by cloning this prototype. |
-|4 | Creational |The Builder Pattern|which separates the construction of a complex object from its representation so that the same construction process can create different representation |
+|4 | Creational |[The Builder Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/4.%20The%20Builder%20Pattern%20__Creational/README.md)|which separates the construction of a complex object from its representation so that the same construction process can create different representation |
 |5 | Creational |The Abstract Factory Pattern| which provides an interface for creating related or dependent objects without specifying the objects' concrete classes. |
 
 
@@ -42,11 +41,11 @@
 |:---:|:----|:-----------|:-----|
 |6 | Structural |The Proxy Pattern| |
 |7 | Structural |The Decorator Pattern| |
-|8 | Structural |The Adapter Pattern| |
+|8 | Structural |[The Adapter Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/8.%20The%20Adapter%20Pattern%20__%20Structural/README.md)|The Adapter pattern is a structural design pattern that allows objects with incompatible interfaces to work together by creating a middleman called an adapter. The adapter acts as a translator or a bridge between the two incompatible interfaces, enabling them to interact seamlessly.|
 |9 | Structural |The Facade Pattern| |
 |10 | Structural |The Flyweight Pattern| |
 |11 | Structural |The Composite Pattern| |
-|12 | Structural |The Bridge Pattern| |
+|12 | Structural |[The Bridge Pattern](https://github.com/AhmedKhalil777/Software-Design-Pattern/blob/master/12.%20The%20Bridge%20Pattern%20__%20Structural/README.md)|Decouple an abstraction from its implementation, so the 2 can vary independently.|
 
 
 
